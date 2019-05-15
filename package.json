@@ -1,6 +1,6 @@
 {
   "name": "quill-delta-render",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "quill-delta-render",
   "main": "index.js",
   "dependencies": {
