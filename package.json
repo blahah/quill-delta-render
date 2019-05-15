@@ -1,0 +1,20 @@
+{
+  "name": "quill-delta-render",
+  "version": "0.0.0",
+  "description": "quill-delta-render",
+  "main": "index.js",
+  "dependencies": {
+    "quill-delta-to-html": "^0.10.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blahah/quill-delta-render.git"
+  },
+  "author": "Rik Smith-Unna (@blahah)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blahah/quill-delta-render/issues"
+  },
+  "homepage": "https://github.com/blahah/quill-delta-render"
+}
